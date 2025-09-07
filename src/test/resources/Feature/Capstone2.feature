@@ -16,7 +16,6 @@ Feature: West Florida AHEC Website Tests
     #Then I open the program "Tobacco Free Florida AHEC Cessation Program"
     Then I open the program "AHEC Scholars"
     Then I open the program "Healthy Aging"
-    Then I open the program "Covering Florida"
     Then I close the browser
 
   @Registration

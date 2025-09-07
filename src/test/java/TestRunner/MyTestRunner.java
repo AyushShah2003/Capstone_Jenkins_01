@@ -1,4 +1,4 @@
-package TestRunner;
+/*package TestRunner;
 
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
@@ -12,4 +12,4 @@ import io.cucumber.testng.CucumberOptions;
 
 public class MyTestRunner extends AbstractTestNGCucumberTests{
 
-}
+}*/

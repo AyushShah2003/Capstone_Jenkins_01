@@ -1,4 +1,4 @@
-package StepDefinitions;
+/*package StepDefinitions;
 
 import java.time.Duration;
 
@@ -180,4 +180,5 @@ public class StepDefinition {
             driver.quit();
         }
     }
-}
+}*/
+
